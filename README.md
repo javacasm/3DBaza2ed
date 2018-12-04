@@ -2,7 +2,7 @@
 
 CEP de Baza
 
-(20 horas)
+(12 horas)
 
 |Fecha|	Horario
 |---|---
@@ -18,7 +18,7 @@ CEP de Baza
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3dBaza
+## https://github.com/javacasm/3dBaza2ed
 
 ## Introducción
 
