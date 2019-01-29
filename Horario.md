@@ -1,14 +1,23 @@
-# Iniciación al Diseño e impresión 3D
+# IMPRESORAS 3D. CONFIGURACIÓN, MANEJO Y APLICACIÓN DIDÁCTICA ([191814GE030](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=187950))
 
-## Septiembre 2017
+## CEP BAZA
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
+## https://github.com/javacasm/3dBaza2ed
+
 * *  *
 
-# MIÉRCOLES 13 DE JULIO DE 2016 (9.00-14.30)
+|Fecha|	Horario
+|---|---
+|15/01/2019|16:30 a 19:30
+|22/01/2019|16:30 a	19:30
+|29/01/2019|16:30 a 19:30
+|06/02/2019|16:30 a	19:30
+
+
 
 Diseño e impresión en 3D
 
@@ -21,7 +30,6 @@ Diseño e impresión en 3D
 - [Anatomía de una impresora](./impresora3D.md)
 - [Donde Comprar](./Comprar.md)
 
-# JUEVES 14 DE JULIO DE 2016 (9.00-14.30)
 
 Impresión 3D
 - [Tecnologías de impresión 3D](./Teconologias.md)
@@ -38,7 +46,6 @@ Impresión 3D
   * Mantenimiento y cuidados
   * [Solución de Problemas](./Problemas.md)
 
-# VIERNES 15 DE JULIO DE 2016 (9.00-14.30)
 
 ## [Diseño 3D](Disenio3D.md)
 - [Herramientas de diseño](./HerramientasDisenio.md)
