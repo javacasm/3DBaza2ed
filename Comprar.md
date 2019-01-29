@@ -10,9 +10,25 @@
 
 # Comprar
 
+## CREALITY ENDER 3 (160-180eu) 
+
+![Ender 3](https://img.staticbg.com/thumb/large/oaupload/banggood/images/15/85/d40f00b0-8905-4d1e-b8cb-737a86e17f68.jpg)
+
+[Videoreview](https://www.youtube.com/watch?v=6LQl-UUEVO8)
+
+## Geeetech A10 3D Printer (160eu)
+
+![A10](https://www.gizlogic.com/wp-content/uploads/2018/09/Geeetech-A10.jpg)
+
+## Anet A8 (130eu)
+
+![Anet a8](https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Distribution/2018/01/09/goods_img_big-v1/20180109121635_60388.jpg)
+
 [Comparativa de impresoras 3D](http://comohacer.eu/comparativa-impresoras-3d/#Comparativa_de_impresoras_3D)
 
 [Otra comparativa](http://buenosybaratos.es/electronica/impresora-3d/las-mejores-impresoras-3d/)
+
+## ¿Dónde comprarlas?
 
 # Recomendados
 
@@ -30,6 +46,7 @@
 ## ¿Nos atrevemos con un kit?
 
 Bq
+
 Createc3D
 
 ## Materiales reciclados
