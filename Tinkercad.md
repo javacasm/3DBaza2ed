@@ -12,9 +12,9 @@
 
 # [TinkerCad](https://www.tinkercad.com/)
 
-![1](./images/tinkercad.png)
+![Modelo de nave espacial](./images/tinkercad.png)
 
-![2](./images/notre-dame-tinkercad.png)
+![Modelo de Notre Dame](./images/notre-dame-tinkercad.png)
 
 * Herramienta online gratuita
 * Necesita crearse una cuenta

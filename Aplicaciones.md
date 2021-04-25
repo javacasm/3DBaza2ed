@@ -87,6 +87,7 @@
 ![cambio automático](http://thingiverse-production-new.s3.amazonaws.com/renders/50/f3/94/7d/20/IMG_0993_preview_featured.JPG)
 
 [[modelo]](http://www.thingiverse.com/thing:713815)  [[vídeo]](https://www.youtube.com/watch?v=-FyC3dn3HJY)
+
 * ¿Máquinas de laboratorio open-source? [Medida de resistencia](http://3dprint.com/57992/testrbot-3d-print-testing/)
 ![maquina](http://3dprint.com/wp-content/uploads/2015/04/test.png)
 
